@@ -9,7 +9,7 @@ import org.junit.Test;
 import hw2software.srccode;
 
 
-class testcodeTest {
+public class testcodeTest {
 @Test
 	 public void tt(){
 	        assertEquals(srccode.add(4,5), 9);
