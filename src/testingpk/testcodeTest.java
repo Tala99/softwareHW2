@@ -4,7 +4,7 @@ package testingpk;
 
 import static org.junit.Assert.assertEquals;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import hw2software.srccode;
 
